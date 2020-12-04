@@ -1,0 +1,1 @@
+<img src="./amongUS/img/rose.png" id="rose" onclick="tuerRose()">
